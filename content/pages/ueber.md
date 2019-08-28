@@ -1,6 +1,6 @@
 +++
 title = "Über mich"
-draft = false
+draft = true
 image = ""
 description = "Seite über mich"
 +++
