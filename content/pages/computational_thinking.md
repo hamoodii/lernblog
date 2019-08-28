@@ -1,6 +1,6 @@
 +++
 title = "Computational_Thinking"
-draft = false
+draft = true
 image = "/img/cs50x-378-255-1-.jpg"
 description = "An introduction to the intellectual enterprises of computer science and the art of programming. \n"
 +++
