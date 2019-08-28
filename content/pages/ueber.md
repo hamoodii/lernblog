@@ -1,10 +1,10 @@
 +++
 title = "Über mich"
 draft = false
-description = "Seite über mich"
 image = ""
+description = "Seite über mich"
 +++
-![](/img/default-author.png)
+![](/img/image1.jpg)
 
 ## Vorname Nachname
 
