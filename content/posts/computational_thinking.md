@@ -1,9 +1,9 @@
 +++
 title = "Intensiv-Deutschkurs vor dem Studienstart"
 date = "2019-08-27"
-draft = true
-pinned = true
-tags = ["Deutsch"]
+draft = false
+pinned = false
+tags = ["Deutsch", "Lernblog"]
 image = "/img/51jug7wa8bl._sx258_bo1-204-203-200_.jpg"
 description = ""
 +++
