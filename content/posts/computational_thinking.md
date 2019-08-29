@@ -1,19 +1,21 @@
 +++
-title = "Computational_Thinking"
-date = "2019-08-21"
+title = "Intensiv-Deutschkurs vor dem Studienstart"
+date = "2019-08-27"
 draft = true
 pinned = true
-image = "/img/cs50x-378-255-1-.jpg"
-description = "An introduction to the intellectual enterprises of computer science and the art of programming. \n"
+tags = ["Deutsch"]
+image = "/img/51jug7wa8bl._sx258_bo1-204-203-200_.jpg"
+description = ""
 +++
-\- we had the simaller moodle at the HSR with more focusing on the operating system 
+# Intensiv-Deutschkurs vor dem Studienstart
 
-  and the command lineInstructions.
+## Kursinhalte
 
-\- we learned how to work with C programm and all Datatype and to be familiar with the 
+* Repetition von Deutsch in Alltagssituationen, insbesondere im Studienumfeld
+* Hilfestellungen für das Verfassen von Berichten
 
-  Compiler.
 
-\- use the algorithm to solve the tasks with the efficient way.
 
-\- at the end of the course we learned all the important infos about the python.
+
+
+#
