@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Anleitung", "Lernblog"]
 image = "/img/cs50x-378-255-1-.jpg"
-description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
+description = ""
 footnotes = ""
 +++
 
